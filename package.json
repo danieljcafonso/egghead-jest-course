@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "jest"
   },
   "author": "Daniel Afonso",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
